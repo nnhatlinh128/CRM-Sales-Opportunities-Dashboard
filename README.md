@@ -56,7 +56,14 @@ Detailed data dictionary documentation:
 
 ---
 
-## 3. Business Questions
+## 3. Data Model
+
+<img width="1024" height="796" alt="Data model" src="https://github.com/user-attachments/assets/43140571-fa4c-40da-af8f-a690617862a8" />
+
+
+---
+
+## 4. Business Questions
 
 The dashboard was designed to answer the following business questions:
 
